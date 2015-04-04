@@ -1,0 +1,2 @@
+How to use a quadrature encoder
+http://letsmakerobots.com/node/24031

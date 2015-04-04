@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{B0615235-02C6-4351-8129-14773CE3019A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotUtilsTest", "RobotUtils\RobotUtilsTest\RobotUtilsTest.csproj", "{4B2177D5-7A99-4737-B369-74771C1B7728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotUtils", "RobotUtils\RobotUtils.csproj", "{569A74DC-B275-41E3-AFC9-5658D7ADA356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot1", "Robot1\Robot1.csproj", "{C203E0FD-B1C6-4D41-B934-4FD966E58993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B2177D5-7A99-4737-B369-74771C1B7728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2177D5-7A99-4737-B369-74771C1B7728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2177D5-7A99-4737-B369-74771C1B7728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2177D5-7A99-4737-B369-74771C1B7728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569A74DC-B275-41E3-AFC9-5658D7ADA356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569A74DC-B275-41E3-AFC9-5658D7ADA356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569A74DC-B275-41E3-AFC9-5658D7ADA356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569A74DC-B275-41E3-AFC9-5658D7ADA356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C203E0FD-B1C6-4D41-B934-4FD966E58993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C203E0FD-B1C6-4D41-B934-4FD966E58993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C203E0FD-B1C6-4D41-B934-4FD966E58993}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C203E0FD-B1C6-4D41-B934-4FD966E58993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C203E0FD-B1C6-4D41-B934-4FD966E58993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C203E0FD-B1C6-4D41-B934-4FD966E58993}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4B2177D5-7A99-4737-B369-74771C1B7728} = {B0615235-02C6-4351-8129-14773CE3019A}
+	EndGlobalSection
+EndGlobal
